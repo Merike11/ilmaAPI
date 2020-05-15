@@ -4,3 +4,5 @@ Paraleelselt ilmateade suvilas Võsul ja kodus Kuressaares. Kui kummaski parasja
 Asukoha ID: Võsul 587445 ja Kuressaares 590939
 
 Rohkem ilmaparameetreid tavaliselt jalutaja ei vaja, sestap pole neid ka välja toodud.
+
+[ilmaAPI](https://https://ta18toose.itmajakas.ee/Hajusrakendused/ilmaAPI(hajus_1)/index.php)
